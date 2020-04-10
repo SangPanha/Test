@@ -1,0 +1,39 @@
+.home-indicator {
+    width: 134px;
+    height: 5px;
+    overflow: visible;
+    background-color: #ffffff;
+    border-radius: 50px;
+}
+
+.button {
+    width: 200px;
+    height: 45px;
+    overflow: visible;
+    background-color: #ffffff;
+    border-radius: 23px;
+    border: 1px dashed #ffffff;
+}
+
+.intro {
+    width: 260px;
+    height: 215px;
+    overflow: visible;
+}
+
+.status-bar {
+    width: 375px;
+    height: 44px;
+    overflow: visible;
+}
+
+.apple-i-phone-x {
+    width: 375px;
+    height: 812px;
+    overflow: hidden;
+    background-image: url(/* background-image.jpg */);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    image-rendering: auto;
+}
